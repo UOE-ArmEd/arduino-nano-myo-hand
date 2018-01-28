@@ -10,7 +10,7 @@ Battery with XT60 connector attaches to the side. There is a LM317 (3 pin device
 You will need two female-female (or male-female) jumpers to provide power to the servos. The protoboard has a 2x1 header just for this. The more 'outside' pin is 5V, the more 'inside' on is GND.
 
 ## Myo
-The myo muscle sensor is attached to the breadboard, and will not be attached directly to skin. The electrodes should be connected by the black/blue/red cable to the audio jack. 
+The myo muscle sensor is attached to the breadboard, and will not be attached directly to skin. The electrodes should be connected by the black/blue/red cable to the audio jack. Muscle signal is delivered to pin A0.
 
 ## Button
 A button is connected to pin 2 which can be configured as an external interrupt. Could be useful?

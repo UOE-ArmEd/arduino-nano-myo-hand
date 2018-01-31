@@ -3,7 +3,6 @@
  * @Email:  prototriangle@gmail.com
  * @Project: ArmED
  * @Filename: arduino-nano-myo-hand.ino
- * @Last modified time: 2018-01-22T18:01:17+00:00
  */
 
 
